@@ -132,7 +132,7 @@ with col3:
                     Monitoramento e melhoria contínua (custos, recursos interpelados, prazos, cargas de trabalho, prazos para preenchimento de vagas, satisfação do cliente)
             - Etapa 10:  
                      Registro de lições aprendidas, consolidação do fluxo e encerramento do projeto 
-            **Término do Projeto: Março/2026**
+            - Término do Projeto: Março/2026
         """)
 
            
